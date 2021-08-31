@@ -1,0 +1,30 @@
+.google-logo {
+    display: block;
+    margin: 250px auto auto;
+}
+
+.search-bar {
+    display: block;
+    margin: 0 auto;
+}
+
+.search-bar-buttons {
+    text-align: center;
+}
+
+.sign-in {
+    background-color: #4285f4;
+    border: none;
+    background-size: 20px;
+    color:white;
+}
+
+.nav-bar {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+    font-size: 12px;
+}
